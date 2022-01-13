@@ -1,0 +1,25 @@
+p {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.one {
+    width: 800px;
+    height: 400px;
+    background: #818181;
+    box-sizing: border-box;
+    margin: 120px 20px 20px 20px;
+    box-shadow: #d5b492 -70px -30px 50px 50px;
+}
+
+.two {
+    font-size: 15pt;
+    line-height: 8px;
+    width: 600px;
+    height: 105px;
+    box-sizing: border-box;
+    border-left: 5px solid #fe0202;
+    margin: 20px 20px 50px 20px;
+    padding: 1px;
+
+}
