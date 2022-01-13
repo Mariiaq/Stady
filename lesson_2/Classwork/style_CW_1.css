@@ -1,0 +1,36 @@
+body {
+    background: #272727;
+}
+
+div {
+    width: 250px;
+    height: 70px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 40px;
+}
+
+.first {
+    border: 5px solid #ff6f1f;
+    color: #ff6f1f;
+    margin: 150px 50px 10px 500px;
+
+}
+
+.second {
+    border: 5px solid #2efff2;
+    color: #2efff2;
+    margin: 30px 50px 10px 500px;
+}
+
+.third {
+    border: 5px solid #ff55a7;
+    color: #ff55a7;
+    margin: 30px 50px 10px 500px;
+}
+
+.fourth {
+    border: 5px solid #ff3f3f;
+    color: #ff3f3f;
+    margin: 30px 50px 10px 500px;
+}
