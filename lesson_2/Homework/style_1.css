@@ -1,0 +1,47 @@
+h1 {
+    color: #faf5f5;
+}
+
+.first {
+    text-align: center;
+    background: #8a2928;
+    width: 1300px;
+    height: 40px;
+    margin: 20px;
+}
+
+.second {
+    background: #c0c0c0;
+    width: 1300px;
+    height: 100px;
+    box-sizing: border-box;
+    margin: 0 20px;
+    padding: 40px;
+}
+
+.third {
+    background: #6496ec;
+    width: 1300px;
+    height: 130px;
+    box-sizing: border-box;
+    margin: 0 20px;
+    padding: 50px;
+}
+
+.fourth {
+    background: #6cba68;
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    margin: 0 20px;
+}
+
+.fifth {
+    background: #8987ac;
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    margin: 0 20px 20px;
+    border-radius: 30px;
+
+}
