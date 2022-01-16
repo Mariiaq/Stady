@@ -1,0 +1,54 @@
+
+#widgets {
+    width: 700px;
+    height: 300px;
+    background: coral;
+    border-radius: 5px;
+    font-size: 15pt;
+    color: #8b2fb2;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#container {
+    width: 700px;
+    height: 350px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+.litle {
+    width: 220px;
+    height: 330px;
+    background: #ec9b7d;
+    font-size: 15pt;
+    color: #8b2fb2;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact {
+    width: 700px;
+    height: 600px;
+    background: coral;
+    font-size: 15pt;
+    color: #8b2fb2;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
