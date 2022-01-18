@@ -1,0 +1,39 @@
+h2 {
+    color: #24c0b7;
+    text-align: center;
+}
+
+#conteiner_over {
+    width: 950px;
+    height: 550px;
+    background: #ff6f1f;
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+
+}
+
+#conteiner_1 {
+    margin: 10px;
+}
+
+#conteiner_2 {
+    margin: 10px;
+}
+
+.blocks {
+    width: 430px;
+    height: 150px;
+    background: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.box {
+    display: flex;
+}
+
+.box > i {
+    font-size: 60px;
+    margin: 20px;
+}
