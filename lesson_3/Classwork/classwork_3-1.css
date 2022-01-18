@@ -1,0 +1,65 @@
+.body{
+    margin: 0;
+}
+#conteiner_1{
+    width: 620px;
+    height: 520px;
+    border: 5px silver solid;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.A{
+width: 600px;
+height: 150px;
+border-radius: 10px;
+    background: silver;
+    margin: 10px;
+    text-align: center;
+
+}
+#conteiner_2{
+    width: 400px;
+    height: 350px;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+#conteiner_3{
+    width: 400px;
+    height: 150px;
+    display: flex;
+    margin-bottom: 10px;
+
+
+}
+.blocks{
+    width: 200px;
+    height: 150px;
+    background: silver;
+    border-radius: 10px;
+    margin: 10px;
+
+
+}
+#conteiner_4{
+    width: 400px;
+    height: 150px;
+    display: flex;
+    margin-top: 10px;
+
+}
+#conteiner_5{
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+}
+.h{
+    width: 200px;
+    height: 320px;
+    background: silver;
+    border-radius: 10px;
+    margin: 10px;
+
+
+}
