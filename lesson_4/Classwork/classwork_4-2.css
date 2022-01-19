@@ -1,0 +1,58 @@
+
+.w600 {
+    width: 600px;
+}
+
+.w580 {
+    width: 580px;
+}
+.w420 {
+    width: 420px;
+}
+.w140 {
+    width: 150px;
+}
+
+.h450 {
+    height: 480px;
+}
+
+.h320 {
+    height: 320px;
+}
+
+.h140 {
+    height: 140px;
+}
+
+.bg-silver {
+    background: silver;
+}
+
+.brd-r-8 {
+    border-radius: 8px;
+}
+
+.br {
+    border: 5px solid silver;
+}
+
+.flex {
+    display: flex;
+}
+
+.text {
+    display: flex;
+    align-content: center;
+    justify-content:center;
+    align-items: center;
+}
+.mg-10 {
+    margin: 10px;
+}
+
+.column {
+    display: flex;
+    flex-wrap: wrap;
+
+}
