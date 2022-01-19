@@ -1,0 +1,65 @@
+.w420 {
+    width: 420px;
+}
+
+.h600 {
+    height: 650px;
+}
+
+.w150 {
+    width: 150px;
+}
+
+.w225 {
+    width: 225px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.h380 {
+    height: 380px;
+}
+
+.h370 {
+    height: 360px;
+}
+
+.h170 {
+    height: 170px;
+}
+
+.br {
+    border: 1px solid black;
+}
+
+.bg-pink {
+    background: pink;
+}
+
+.bg-red {
+    background: rgba(238, 86, 86, 0.67);
+}
+
+.bg-green {
+    background: #6bdcb7;
+}
+
+.bg-pur {
+    background: #a96cc2;
+}
+
+.mg {
+    margin: 10px;
+}
+
+.text {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}

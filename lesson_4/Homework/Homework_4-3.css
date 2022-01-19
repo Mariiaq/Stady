@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+.w600 {
+    width: 600px;
+}
+
+.w190 {
+    width: 190px;
+}
+
+.h850 {
+    height: 1000px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h400 {
+    height: 350px;
+}
+
+.bg-dark-blue {
+    background: #0a0765;
+}
+
+.bg-blue {
+    background: #211bcc;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.mg {
+    margin: 10px;
+}
+
+.flex {
+    display: flex;
+
+}
+
+.column {
+    flex-direction: column;
+}
+
+.blok-1 {
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: space-between;
+}
+
+.mg-5 {
+    margin: 5px;
+}
