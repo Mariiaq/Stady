@@ -1,0 +1,50 @@
+.w820 {
+    width: 820px;
+}
+
+.w400 {
+    width: 400px;
+}
+
+.w260 {
+    width: 260px;
+}
+
+.h540 {
+    height: 540px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h150 {
+    height: 150px;
+}
+
+.mg-10 {
+    margin: 10px;
+}
+
+.bg-blue {
+    background: #211bcc;
+}
+
+.bg-dark-blue {
+    background: #0f0b81;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.flex {
+    display: flex;
+}
+
+.brd-r-3 {
+    border-radius: 3px;
+}
