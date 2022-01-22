@@ -1,0 +1,119 @@
+body {
+    margin: 5px;
+}
+
+.w620 {
+    width: 620px;
+}
+
+.w510 {
+    width: 510px;
+}
+
+.w400 {
+    width: 400px;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.h800 {
+    height: 800px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.h390 {
+    height: 390px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.h50 {
+    height: 50px;
+}
+
+.bg-blue {
+    background: #a7cfdc;
+}
+
+.txt {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: purple;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mg-5 {
+    margin: 5px;
+}
+
+.visibleBlock {
+    display: none;
+}
+
+@media screen and (min-width: 390px) and (max-width: 844px) {
+    .w620 {
+        width: 375px;
+    }
+
+    .w510 {
+        width: 260px;
+    }
+
+    .w400 {
+        width: 260px;
+    }
+
+    .w180 {
+        width: 180px;
+    }
+
+    .blok-3 {
+        width: 370px;
+        height: 50px;
+        display: flex;
+    }
+
+    .blok-8-9 {
+        display: none;
+    }
+
+    .column {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .visibleBlock {
+        display: flex;
+    }
+
+    .flex {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .blok-1-2 {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+
+}
