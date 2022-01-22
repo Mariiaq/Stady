@@ -1,0 +1,361 @@
+body {
+    margin: 0;
+    margin-left: 100px;
+}
+
+.w796 {
+    width: 796px;
+}
+
+.w590 {
+    width: 590px;
+}
+
+.w580 {
+    width: 580px;
+}
+
+.w570 {
+    width: 570px;
+}
+
+.w400 {
+    width: 404px;
+}
+
+.w295 {
+    width: 295px;
+}
+
+.w200 {
+    width: 200px;
+}
+
+.w180 {
+    width: 180px;
+}
+
+.w105 {
+    width: 105px;
+}
+
+.w80 {
+    width: 80px;
+}
+
+.w50 {
+    width: 50px;
+}
+
+.h1300 {
+    height: 1500px;
+}
+
+.h1220 {
+    height: 1220px;
+}
+
+.h500 {
+    height: 511px;
+}
+
+.h460 {
+    height: 475px;
+}
+
+.h440 {
+    height: 440px;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.h280 {
+    height: 280px;
+}
+
+.h120 {
+    height: 120px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.h80 {
+    height: 60px;
+}
+
+.h60 {
+    height: 60px;
+}
+
+.h50 {
+    height: 50px;
+}
+
+.h20 {
+    height: 20px;
+}
+
+.h10 {
+    height: 10px;
+}
+
+.mg-top {
+    margin-top: 50px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.txt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.mg-10 {
+    margin: 10px;
+}
+
+.mg-5 {
+    margin: 5px;
+}
+
+.bg-silver {
+    background: silver;
+}
+
+.bg-black {
+    background: #0c0c0c;
+}
+
+.brd {
+    border: 3px solid #0c0c0c;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+.poz-rel-t-350-r-25 {
+    position: relative;
+    right: 100px;
+
+}
+
+.poz-center {
+    position: center;
+
+}
+
+.poz-rel-t-20-l-30 {
+    position: absolute;
+    margin: 10px;
+}
+
+@media screen and (min-width: 414px) and (max-width: 896px) {
+    body {
+        margin: 0;
+    }
+
+    .w796 {
+        width: 410px;
+    }
+
+    .w590 {
+        width: 410px;
+    }
+
+    .w570 {
+        width: 390px;
+    }
+
+
+    .blok-2 {
+        display: none;
+    }
+
+    .blok-4 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 250px;
+    }
+
+    .w200 {
+        width: 180px;
+    }
+
+    .w180 {
+        width: 150px;
+    }
+
+    .w105 {
+        width: 180px;
+    }
+
+    .h500 {
+        height: 400px;
+    }
+
+    .h460 {
+        height: 380px;
+    }
+
+    .h100 {
+        height: 100px;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .blok-5 {
+        width: 410px;
+        height: 500px;
+
+    }
+
+    .blok-6 {
+        width: 410px;
+        height: 220px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .blok-6-1 {
+        width: 150px;
+        height: 150px;
+    }
+
+    .blok-6-1-1 {
+        width: 150px;
+        height: 200px;
+        background: silver;
+    }
+
+    .blok-6-2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bloks-5-6 {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 667px) {
+
+
+    .h440 {
+        height: 240px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+    .blok-1 {
+        width: 360px;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .blok-2 {
+        display: none;
+    }
+
+    .blok-3 {
+        width: 360px;
+    }
+
+    .w570 {
+        width: 340px;
+    }
+
+    .w180 {
+        width: 300px;
+    }
+
+    .blok-4 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 360px;
+        height: 250px;
+
+    }
+
+    .blok-5 {
+        width: 360px;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blok-5-1 {
+        height: 300px;
+    }
+
+    .blok-6 {
+        width: 360px;
+        height: 450px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+
+    .blok-6-1 {
+
+        height: 225px;
+        display: flex;
+        align-items: center;
+    }
+
+    .blok-6-1-1 {
+        width: 300px;
+        height: 200px;
+        background: silver;
+        margin: 10px;
+    }
+
+    .blok-6-2-2 {
+        width: 300px;
+        height: 50px;
+        background: silver;
+    }
+
+    .bloks-5-6 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blok-7 {
+        width: 360px;
+    }
+
+
+}
+
+
