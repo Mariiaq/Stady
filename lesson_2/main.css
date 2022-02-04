@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.target {
+    background: pink;
+    width: 600px;
+    height: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding-left: 20px;
+    border-left: 4px solid indigo;
+    border-radius: 10px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    margin: 100px;
+    box-shadow: #211bcc 10px 10px 10px 10px;
+    transition: 3s;
+
+}
+
+.target:hover {
+    height: 400px;
+    transition: 300ms;
+
+}

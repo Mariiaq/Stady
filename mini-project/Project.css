@@ -33,7 +33,8 @@ nav,
 .nav_menu,
 .top_bar,
 .minis,
-.delivers_1 {
+.delivers_1,
+.integration {
     display: flex;
     align-items: center;
 }
@@ -295,6 +296,16 @@ nav,
     color: var(--txt-silver-color);
 }
 
+.txt-silver-bottom {
+    width: 667px;
+    height: 84px;
+    font-size: 17px;
+    line-height: 28px;
+    color: var(--txt-silver-color);
+    margin-bottom: 36px;
+    margin-top: 37px;
+}
+
 .icons {
     margin-bottom: 29px;
 }
@@ -389,11 +400,95 @@ nav,
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-top: 2px solid #c0c0c0;
-    border-bottom: 2px solid #c0c0c0;
 }
 
 .txt-black {
     margin-top: 10px;
     margin-bottom: 15px;
+}
+
+.integration {
+    width: 1292px;
+    height: 418px;
+    margin-left: 147px;
+    margin-bottom: 240px;
+}
+
+.integration-title {
+    width: 669px;
+    height: 120px;
+    font-size: 34px;
+    line-height: 40px;
+    color: var(--txt-color);
+}
+
+.img-integration {
+    position: relative;
+    left: 200px;
+}
+
+.case-study {
+    width: 1376px;
+    height: 584px;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-bottom: 40px;
+    background: #F2EDE7;
+    border-radius: 10px 0 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.case-study-title {
+    width: 314px;
+    height: 64px;
+    font-size: 24px;
+    line-height: 32px;
+    color: var(--txt-color);
+
+}
+
+.case-study-btn {
+    width: 156px;
+    height: 54px;
+    background: #F2EDE7;
+    border-color: #112a38;
+}
+
+.footer_1 {
+    width: 1440px;
+    height: 423px;
+    background: var(--txt-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-title {
+    font-size: 42px;
+    line-height: 48px;
+    color: white;
+}
+.footer-txt {
+    font-size: 17px;
+    line-height: 28px;
+    color: white;
+    width: 642px;
+    height: 46px;
+    margin-top: 31px;
+    margin-bottom: 36px;
+}
+.hr-footer {
+    width: 1400px;
+    color: #375361;
+    margin-top: 95px;
+}
+.footer_2 {
+    width: 1440px;
+    height: 678px;
+    background: var(--txt-color);
+    display: flex;
 }
