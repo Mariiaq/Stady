@@ -1,4 +1,3 @@
-
 let arr = [15, 45, 84, 124, 815, 46, 184, 998, 483, 4];
 console.log(arr);
 
@@ -25,7 +24,7 @@ let books = [
         pages: 300,
         genre: `fantasy`,
         authors: `Joanne Rowling`,
-},
+    },
     {
         name: `gary potter 2`,
         pages: 300,
@@ -49,7 +48,6 @@ console.log(books[0]);
 console.log(books[1]);
 console.log(books[2]);
 console.log(books[3]);
-
 
 
 let height = 23;
