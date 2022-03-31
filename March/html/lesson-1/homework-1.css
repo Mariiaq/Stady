@@ -1,0 +1,28 @@
+
+h1 {
+    background: rgba(12, 22, 213, 0.65);
+    color: #d8f111;
+    text-align: center;
+}
+h2 {
+    background: yellow;
+    color: #211bcc;
+    text-align: center;
+}
+p {
+    background: blue;
+    color: white;
+}
+
+ul {
+    background: yellow;
+    color: black;
+}
+
+img {
+    width: 400px;
+    margin-left: 35%;
+}
+b {
+    color: #ec0bce;
+}
