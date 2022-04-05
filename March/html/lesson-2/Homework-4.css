@@ -1,0 +1,36 @@
+.container {
+    width: 650px;
+    height: 550px;
+    background: lightgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bloks {
+    display: flex;
+    flex-direction: column;
+}
+.blok{
+    width: 300px;
+    height:150px;
+    background: white;
+    display: flex;
+    border-radius: 10px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+i {
+    font-size: 50px;
+    color: greenyellow;
+    margin: 10px;
+
+
+}
+h3 {
+    color: greenyellow;
+}
+p {
+    color: silver;
+}

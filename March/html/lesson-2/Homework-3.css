@@ -1,0 +1,48 @@
+.over {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blok {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    border-color: dodgerblue;
+    border-left: 1px;
+    border-top: 1px;
+    border-right: 3px;
+    border-bottom: 1px;
+    border-radius: 5%;
+box-shadow: dodgerblue 10px 19px 23px 0;
+    margin: 10px;
+}
+.img {
+    font-size: 30px;
+    color: #2b2880;
+}
+h3 {
+    color: rgba(33, 27, 204, 0.8);
+}
+p{
+    color: silver;
+}
+
+.button {
+    width: 150px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #7a28bd;
+    color: white;
+}

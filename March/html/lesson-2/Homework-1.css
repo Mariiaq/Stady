@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+.bloks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.widgets {
+    width: 500px;
+    height: 300px;
+    background: #211bcc;
+    color: #ffffff;
+   display: flex;
+    align-items: center;
+justify-content: center;
+
+}
+.small-wigets {
+    width: 500px;
+    height: 200px;
+    display: flex;
+    margin: 10px;
+}
+.small-block {
+    width: 150px;
+    height: 180px;
+    background: #2b2880;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.contact {
+    width: 500px;
+    height: 400px;
+    background: #211bcc;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
