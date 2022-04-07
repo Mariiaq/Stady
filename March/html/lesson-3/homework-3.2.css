@@ -1,0 +1,55 @@
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background: white;
+    box-sizing: border-box;
+    border: 2px solid lightcoral;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -45px;
+}
+.img {
+    font-size: 70px;
+    color: #8b2fb2;
+}
+.bloks {
+    width: 950px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.blok {
+    width: 250px;
+    height: 350px;
+    box-sizing: border-box;
+    border: 3px solid lightcoral;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 30px;
+}
+h3 {
+    color: lightseagreen;
+}
+p{
+    color: lightblue;
+}
+.button {
+    width: 120px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 2px solid lightcoral;
+    color: lightseagreen;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
