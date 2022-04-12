@@ -1,0 +1,19 @@
+@media screen and (max-width:1792px ) {
+    .container {
+        width: 390px;
+
+    }
+    .container-1 {
+        flex-direction: column;
+    }
+    .a {
+        width: 360px;
+    }
+    .small-blok {
+        width: 110px;
+        height: 110px;
+    }
+    .h{
+        width: 360px;
+    }
+}

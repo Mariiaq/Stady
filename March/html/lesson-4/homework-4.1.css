@@ -1,0 +1,50 @@
+
+.container {
+    width: 650px;
+    height: 900px;
+    box-sizing: border-box;
+    border: 5px solid lightcoral;
+    display: flex;
+    flex-direction: column;
+}
+.a {
+    width: 620px;
+    height: 200px;
+    margin: 10px;
+    background: lightcoral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.conteiner-1 {
+    display: flex;
+}
+.container-2 {
+    display: flex;
+    flex-direction: column;
+}
+.container-3 {
+    display: flex;
+}
+.small-blok {
+    width: 200px;
+    height: 200px;
+    background: lightcoral;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-4 {
+    display: flex;
+}
+.h {
+    width: 620px;
+    height: 200px;
+    background: lightcoral;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
